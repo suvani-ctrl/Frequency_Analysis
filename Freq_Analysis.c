@@ -5,7 +5,7 @@
 
 void slice(char *words) {
     system("clear");  
-    printf("Enter your paragraph for analysis:\n");
+    printf("Enter string/letters for analysis:\n");
     fgets(words, 1000, stdin);  
 }
 
